@@ -1,9 +1,9 @@
 [package]
 name = "kitt_throbbler"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "A Knight Rider style LED animation for terminal output"
-authors = ["Enzo Lombardi <enzo@example.com>"]
+authors = ["Enzo Lombardi <enzinol@gmail.com>"]
 license = "MIT"
 documentation = "https://docs.rs/kitt_throbbler"
 homepage = "https://github.com/enzolombardi/kitt"
